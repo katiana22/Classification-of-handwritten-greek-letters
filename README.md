@@ -32,4 +32,4 @@ Tip: Only the .csv files are needed for the classification, the images are for i
 
 # The Jupyter notebook
 
-Inside the Jupyter notebook 'Handwritten Greek letters classification.ipynb' various classification methods are performed such as Neural Networks, k-Nearest Neighbors, Gaussian Naive Bayes, Random Forest and Logistic Regression. For each method the confusion matrices are computed to illustrate the effectiveness of each method. 
+Inside the Jupyter notebook 'Handwritten Greek letters classification.ipynb' various classification methods are performed such as Neural Networks, k-Nearest Neighbors, Gaussian Naive Bayes, Random Forest and Logistic Regression. Confusion matrices are computed to illustrate the effectiveness of each method. 
