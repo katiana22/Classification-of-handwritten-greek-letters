@@ -10,11 +10,9 @@
 
 This repository contains a python code used to perform classification tasks on a novel dataset of lowercase handwritten Greek letters.
 
-## Dataset
-
 The dataset can be found here: https://www.kaggle.com/katianakontolati/classification-of-handwritten-greek-letters
 
-### Content
+## Content
 
 The dataset consists of 240 images of Greek letters (10 for each letter). The test dataset consists of 96 images (4 for each letter). We provide both the grayscale original high-resolution images in 2 zip files (train and test) and the low-resolution images (14x14 pixels) used for the classification in another 2 zip files (train and test). Finally, matrices that correspond to each low-resolution (14x14) image are given in 2 .csv files (train and test). Numbers in cells represent the grayscale intensities.
 
